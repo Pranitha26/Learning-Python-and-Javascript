@@ -1,0 +1,25 @@
+Hello everyone!!. Today is my first day on learning python, javascript and block coding
+ Link to the Playlist: https://youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA
+
+- Started watching MIT 6.0001 on youtube and the topic was what is computation.
+- I learnt the following-
+    1. What is the difference between humans and robots
+    2. print() command in python
+    3. int, float, bool, Nonetype, type()
+    4. Results of the simple operations using these types numbers- 
+        *Addition- if the no. is a float, then the sum is a float and if the no. is an int, then 
+         the answer is an int. (same for subtraction and multiplication)
+        *Division- the answer is always a float, no matter what.
+- Learnt about modulo(%) and raise to the power of(**).
+- Modulo is used to find the remainder of the division problem. (8%4 = 0)
+- Raise to the power is multiplying the no. (8**2=64)  
+- Learnt about the importance of naming in programming and variables, how to name them.
+- Figured out the difference of variables in javascript and python.
+- Started revising javascirpt in a new website.
+- Solving blockly problems.
+- I learnt what an object is python.
+- There are 2 types of objects, scalar and non-scalar
+    1. Scalar- Objects that can't be sub-divided.
+    2. Non- Scalar- Objects that can be ascessed or divided.
+  
+Video Link: https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=1
