@@ -1,0 +1,34 @@
+- Learnt what happens when the comma and plus is used in defining a variable
+- Comma- 
+    1. By using a comma, you are just saying that this variable is equal to this this and this.
+- Plus-
+    1. Here, you are saying that this variable is equal to this plus this plus this, etc. The variable is equal to the sum of the definition.
+- Learnt the use naming in big programs- 
+    1. We need to be perfect wiht the names of our own program before we can start using those names in the same program.
+    2. The name should assigned be according to the task the variable is doing, which is when we can remember the names and use them without forgetting.
+- I learnt about comparisons too- 
+    1. They are just 2 words used in comparing things in python
+    2. Anything in the particular language we are typing in is related to numbers in some or the other way.
+    3. The name of the connection of the alphabet to numbers is calles ASCII.
+    4. That's how comparing strings are enabled- 
+        *The starting letter of the words we are comparing are checked.
+        *The letter that comes the most after is the greater word or string.
+- The small letters are assigned a a lot of 26 set of numbers starting from 97 to 122.
+- The capital letters are also been assigned a set of 26 numbers starting from 65 to 91.
+- I figured out what happens when the wrong variable naem is used in the code, the code doesn't work as the variable name used in the program isn't defined where as the real variable is defined but isn't used in your own program.
+- I just revised on functions myself- 
+    1. Functions are reuseable bits of code.
+    2. They are just like variables where they are defined or filled with code and is waiting to be called several time in your program without the usage of repeatative code.
+    3. They are very handy in big programs just like variables.
+    4. To use a function, it needs to be called somewhere in you program as, just defining a function doesn't help, to use it, we need to call it.
+    5. The function can be called infinte times, until they are correctly called.
+- I also figured out the difference between variables and functions- 
+     1. Variables only contain small things such as values and strings, etc.
+     2. Functions contain chuncks of code that can be reuseable without being written all over and over again.
+- I just explained everything again to akka and I got clear with all the concepts that I've learn7.
+
+Video Links: https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=6
+             https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=7
+             https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=8
+             https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=9
+             https://www.youtube.com/watch?v=nykOeWgQcHM&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=10
