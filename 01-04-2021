@@ -1,0 +1,35 @@
+- Today, I learnt about strings in python. They are the same as javascript strings-
+     1. Strings are used to print text.
+     2. They aren't supposed to be defined as a string, the quotations will mark them as strings.
+     3. They are more or less like variable text in quotations.
+- I had another example of computers no doing the things they aren't programmed to do.
+- I also learnt about print() statements-
+      1. It's used to print the output
+      2. If any text is written even in the print statement, it is a string.
+- I learnt about the input() statement in python -
+    1. input()
+           *They are specified before they are called. If nothing specifies them, they are simply classified as strings.
+           *If we have to type a number, then we specify the type, like, int and float.
+           * The result even after specification will be a string, even numbers.
+- I learnt how to print booleans/conditionals in python.
+- A boolean is the comparison or is used to check something, i.e, true and false.
+- The answer is the true or false only.
+- No specification is required to define a boolean.
+- The statement has and, or, not, = and ! in it, so that's how you can recognise it and it's the key to it.
+- I also got a revision on if/else/elif and for, while loops.
+- If/else/elif are conditionals. They are the same as booleans, checking statements.
+- If and else can only be added once where as the elif can be added infite times the statement.
+- If you have an if statement, the else statement is mandetory.
+- elif statements are used only when there are 2 or more statements to check.
+- The difference between using elif and if statements are-
+    1. While using if statements repeatedly, you are computing the computer to check every statement even though the right statement is found.
+    2. While using elif statements, you are programming the computer to check which is right and when it's found stop checking.
+- The else statements don't need any condition as you are already saying, if this happens do this else do this. You can't creat another condition when you are already having an else statement.
+- An if or an elif statement can be used if thre are 2 or more conditions to be checked.
+- While loops -
+    1. This happens while something is true or false.
+    2. These loops are indefinite, they are commonly used when you don't know how many times the action has to be repeated.
+- For loops - 
+    1. These kind of loops have the specific amount of times the action has to repeated and the action is immediately stopped hereafter.
+    
+Video Link: https://www.youtube.com/watch?v=Y6J8I056Ffw&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=5
