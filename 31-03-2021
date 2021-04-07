@@ -1,0 +1,9 @@
+- I learnt the difference between the console and the editor.
+- In the console, everything needs to be defined and the code can't be written like 3+2.
+- The answer will be an error as the computer doesn't know what to do when it's given a caluculation without any print() statement.
+- The editor will answer ot this kind of command because it knows that 3+2=5, hence the answer is going to be 5.
+- So basically, the editor has defined data whereas the console doesn't know anything prior to the code we are writing or in other words, the console doesn't have any stored data.
+- The colab notebooks are like the editors, they have everything defined and work both the ways, with and without the print statement.
+- Check out my Colab Practice Notebook in this repeository for further understanding.
+
+Video Link: https://www.youtube.com/watch?v=Y6J8I056Ffw&list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA&index=2
