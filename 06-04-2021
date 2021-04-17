@@ -1,0 +1,25 @@
+- Today, I learnt about the len() function in python.
+- This tells you the number of characters in a string, inclusive of space, full stop, comma and other characters.
+- I learnt the string indexing where you type the number of the letter's place and the leeter is printed.
+- The indexing starts with 0, as I'd learnt in ASCII code, that the alphabet is connected to numbers in code as the computer doesn't understand simple letters.
+- We type the variable name and then we put the name of the number in square brackets.
+- I learnt about slicing strings with [start : stop : step].
+- The stop isn't mandatory, if it isn't mentioned, the default will be 1.
+- It's the same as indexing, we type the variable name and put the number of the letters' place in square brackets.
+- I learnt that once strings are defined, they can't be modified after some bits of code, the computer will give you an error.
+- The computer doesn't forget the values of any variable, hence they can't be replaced unless a new variable is created.
+- I started lerning about algorithms.
+- First, I started of with the guess and check algorithm.
+- The problem that was chosen was way complecated and I had to understand other topics before 
+I could start learning about the first algorithm.
+- The problem was finding the cube of a square root, I'd to understand what's a cube and square root in maths. 
+- So, they are basically formulas used to find the product of numbers.
+- The square root means, when you find the second power of 3, you get 9. 
+- What if you want it the other way round?, what if it's asked to find the square of the given number, here for 9?.
+- The radical symbol comes to play here.
+- I write the number whose square needs to be found next to the slanting line.
+- It's basically the product of multiplying a number by itself that is written next to the slanting line, like when we say 5x5=25, so 25 = 5.
+- The cubed root is finding the number we get after a number thrice by itself, like when we say 3x3x3=27, so 27 = 3.
+              
+
+                  
